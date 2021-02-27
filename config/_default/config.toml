@@ -8,6 +8,7 @@
 # Title of your site
 title = "Istio 学习笔记"
 
+#theme = "book"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/learning-istio/"
