@@ -1,0 +1,37 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "主页"
+  url = "/index.html"
+  weight = 10
+
+[[main]]
+  name = "Istio 基础"
+  url = "/basics.html"
+  weight = 20
+[[main]]
+  name = "源码阅读"
+  url = "/source.html"
+  weight = 30
+[[main]]
+  name = "可观测性"
+  url = "/observability.html"
+  weight = 40
+
+[[main]]
+  name = "最佳实践"
+  url = "/best-practice.html"
+  weight = 50
+
+[[main]]
+  name = "排错指南"
+  url = "/troubleshooting.html"
+  weight = 60
+
+[[main]]
+name = "参考手册"
+url = "/ref.html"
+weight = 70
