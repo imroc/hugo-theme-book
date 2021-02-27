@@ -1,3 +1,2 @@
-github.com/wowchemy/wowchemy-hugo-modules v0.29.1-0.20210202235530-9bbf6fa2a698 h1:Y5al+YJYyaIhR4zP8/a7SXN451IbPQwWJDnZ/HuZ8U8=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210203201443-76478cb4a5e3 h1:fx1uTXn6JMm5wDnPcg5Vv6ImidZMk7P921JVelQjYgA=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210203201443-76478cb4a5e3/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
+github.com/imroc/wowchemy-hugo-modules/v5 v5.0.5 h1:K27kyOJYGV9UDuVmpgdrPdBYM/iwkR+g1uSUlBdwUwI=
+github.com/imroc/wowchemy-hugo-modules/v5 v5.0.5/go.mod h1:3f/VfWVxeCrTON4eDTAF+qlOjZh9FfiFGb1Yc9mwHpc=
